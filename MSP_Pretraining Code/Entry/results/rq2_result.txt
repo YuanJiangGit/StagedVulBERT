@@ -1,0 +1,18 @@
+
+Reasoning Method: attention
+total predicted vulnerable lines: 78
+total lines: 1903
+total flaw lines: 8
+total flaw lines in predicted as vulnerable: 6
+top0.2-Effort: 0.0032
+total inspected line to find out 0.2 of flaw lines: 6
+top0.01-Recall: 0.25
+
+Reasoning Method: attention
+total predicted vulnerable lines: 26577
+total lines: 504886
+total flaw lines: 3966
+total flaw lines in predicted as vulnerable: 2658
+top0.2-Effort: 0.0073
+total inspected line to find out 0.2 of flaw lines: 3672
+top0.01-Recall: 0.2471
